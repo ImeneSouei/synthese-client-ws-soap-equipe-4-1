@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/infotel/wssoap/DaoImpl.java=UTF-8
+encoding//src/com/infotel/wssoap/Magasin.java=UTF-8
+encoding//src/com/infotel/wssoap/Produit.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitNonPerissable.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitPerissable.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitSOAPService.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitSOAPServiceService.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitSOAPServiceServiceLocator.java=UTF-8
+encoding//src/com/infotel/wssoap/ProduitSOAPServiceServiceSoapBindingStub.java=UTF-8
